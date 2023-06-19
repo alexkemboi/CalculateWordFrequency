@@ -1,0 +1,15 @@
+C:\Users\akemboi\source\repos\WordFrequencyCounter\bin\Debug\net8.0\WordFrequencyCounter.exe
+C:\Users\akemboi\source\repos\WordFrequencyCounter\bin\Debug\net8.0\WordFrequencyCounter.deps.json
+C:\Users\akemboi\source\repos\WordFrequencyCounter\bin\Debug\net8.0\WordFrequencyCounter.runtimeconfig.json
+C:\Users\akemboi\source\repos\WordFrequencyCounter\bin\Debug\net8.0\WordFrequencyCounter.dll
+C:\Users\akemboi\source\repos\WordFrequencyCounter\bin\Debug\net8.0\WordFrequencyCounter.pdb
+C:\Users\akemboi\source\repos\WordFrequencyCounter\obj\Debug\net8.0\WordFrequencyCounter.csproj.AssemblyReference.cache
+C:\Users\akemboi\source\repos\WordFrequencyCounter\obj\Debug\net8.0\WordFrequencyCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akemboi\source\repos\WordFrequencyCounter\obj\Debug\net8.0\WordFrequencyCounter.AssemblyInfoInputs.cache
+C:\Users\akemboi\source\repos\WordFrequencyCounter\obj\Debug\net8.0\WordFrequencyCounter.AssemblyInfo.cs
+C:\Users\akemboi\source\repos\WordFrequencyCounter\obj\Debug\net8.0\WordFrequencyCounter.csproj.CoreCompileInputs.cache
+C:\Users\akemboi\source\repos\WordFrequencyCounter\obj\Debug\net8.0\WordFrequencyCounter.dll
+C:\Users\akemboi\source\repos\WordFrequencyCounter\obj\Debug\net8.0\refint\WordFrequencyCounter.dll
+C:\Users\akemboi\source\repos\WordFrequencyCounter\obj\Debug\net8.0\WordFrequencyCounter.pdb
+C:\Users\akemboi\source\repos\WordFrequencyCounter\obj\Debug\net8.0\WordFrequencyCounter.genruntimeconfig.cache
+C:\Users\akemboi\source\repos\WordFrequencyCounter\obj\Debug\net8.0\ref\WordFrequencyCounter.dll
